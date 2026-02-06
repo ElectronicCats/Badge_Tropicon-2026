@@ -377,6 +377,18 @@
           "label": "LCSC#",
           "name": "LCSC#",
           "show": true
+        },
+        {
+          "group_by": false,
+          "label": "manf#",
+          "name": "manf#",
+          "show": false
+        },
+        {
+          "group_by": false,
+          "label": "provedor",
+          "name": "provedor",
+          "show": false
         }
       ],
       "filter_string": "",
