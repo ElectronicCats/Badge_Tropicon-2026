@@ -8551,8 +8551,9 @@
 		(in_bom yes)
 		(on_board yes)
 		(dnp no)
+		(fields_autoplaced yes)
 		(uuid "02d2901d-b61d-4ac1-8c3d-97b307cdf626")
-		(property "Reference" "SW2"
+		(property "Reference" "SW1"
 			(at 173.863 60.198 0)
 			(effects
 				(font
@@ -8631,7 +8632,7 @@
 		(instances
 			(project "Badge_Tropicon_2026"
 				(path "/2b0cdf6f-cecd-4c27-9fa6-35f74ce0f57e"
-					(reference "SW2")
+					(reference "SW1")
 					(unit 1)
 				)
 			)
@@ -8645,8 +8646,9 @@
 		(in_bom yes)
 		(on_board yes)
 		(dnp no)
+		(fields_autoplaced yes)
 		(uuid "0e0275ef-34ab-478c-a383-e52ed46c0546")
-		(property "Reference" "#PWR035"
+		(property "Reference" "#PWR08"
 			(at 93.98 63.5 0)
 			(effects
 				(font
@@ -8696,7 +8698,7 @@
 		(instances
 			(project "Badge_Tropicon_2026"
 				(path "/2b0cdf6f-cecd-4c27-9fa6-35f74ce0f57e"
-					(reference "#PWR035")
+					(reference "#PWR08")
 					(unit 1)
 				)
 			)
@@ -8710,8 +8712,9 @@
 		(in_bom yes)
 		(on_board yes)
 		(dnp no)
+		(fields_autoplaced yes)
 		(uuid "11955bcc-7ce6-44e1-90e5-bfbd846de1e2")
-		(property "Reference" "#PWR019"
+		(property "Reference" "#PWR02"
 			(at 33.02 44.45 0)
 			(effects
 				(font
@@ -8761,7 +8764,7 @@
 		(instances
 			(project "Badge_Tropicon_2026"
 				(path "/2b0cdf6f-cecd-4c27-9fa6-35f74ce0f57e"
-					(reference "#PWR019")
+					(reference "#PWR02")
 					(unit 1)
 				)
 			)
@@ -8775,8 +8778,9 @@
 		(in_bom yes)
 		(on_board yes)
 		(dnp no)
+		(fields_autoplaced yes)
 		(uuid "145c91df-b3a7-434d-bbc9-7d3ae341b206")
-		(property "Reference" "#PWR09"
+		(property "Reference" "#PWR030"
 			(at 299.72 68.58 0)
 			(effects
 				(font
@@ -8826,7 +8830,7 @@
 		(instances
 			(project "Badge_Tropicon_2026"
 				(path "/2b0cdf6f-cecd-4c27-9fa6-35f74ce0f57e"
-					(reference "#PWR09")
+					(reference "#PWR030")
 					(unit 1)
 				)
 			)
@@ -8840,8 +8844,9 @@
 		(in_bom yes)
 		(on_board yes)
 		(dnp no)
+		(fields_autoplaced yes)
 		(uuid "174a8ed3-544d-4dcb-9ec8-c560d1705b75")
-		(property "Reference" "#PWR045"
+		(property "Reference" "#PWR06"
 			(at 69.85 129.54 0)
 			(effects
 				(font
@@ -8891,7 +8896,7 @@
 		(instances
 			(project "Badge_Tropicon_2026"
 				(path "/2b0cdf6f-cecd-4c27-9fa6-35f74ce0f57e"
-					(reference "#PWR045")
+					(reference "#PWR06")
 					(unit 1)
 				)
 			)
@@ -8906,8 +8911,9 @@
 		(in_bom yes)
 		(on_board yes)
 		(dnp no)
+		(fields_autoplaced yes)
 		(uuid "1841c813-7364-46e2-b210-4c8089cb46eb")
-		(property "Reference" "C18"
+		(property "Reference" "C8"
 			(at 224.536 31.75 90)
 			(effects
 				(font
@@ -8977,7 +8983,7 @@
 		(instances
 			(project "Badge_Tropicon_2026"
 				(path "/2b0cdf6f-cecd-4c27-9fa6-35f74ce0f57e"
-					(reference "C18")
+					(reference "C8")
 					(unit 1)
 				)
 			)
@@ -8991,8 +8997,9 @@
 		(in_bom yes)
 		(on_board yes)
 		(dnp no)
+		(fields_autoplaced yes)
 		(uuid "1d0bffd2-eecf-4dff-bf39-001985770377")
-		(property "Reference" "#PWR031"
+		(property "Reference" "#PWR019"
 			(at 167.64 134.62 0)
 			(effects
 				(font
@@ -9042,7 +9049,7 @@
 		(instances
 			(project "Badge_Tropicon_2026"
 				(path "/2b0cdf6f-cecd-4c27-9fa6-35f74ce0f57e"
-					(reference "#PWR031")
+					(reference "#PWR019")
 					(unit 1)
 				)
 			)
@@ -9057,8 +9064,9 @@
 		(in_bom yes)
 		(on_board yes)
 		(dnp no)
+		(fields_autoplaced yes)
 		(uuid "1d479d5d-66de-458b-b463-9cf155b42be8")
-		(property "Reference" "SW3"
+		(property "Reference" "SW2"
 			(at 175.387 43.434 0)
 			(effects
 				(font
@@ -9137,7 +9145,7 @@
 		(instances
 			(project "Badge_Tropicon_2026"
 				(path "/2b0cdf6f-cecd-4c27-9fa6-35f74ce0f57e"
-					(reference "SW3")
+					(reference "SW2")
 					(unit 1)
 				)
 			)
@@ -9152,8 +9160,9 @@
 		(in_bom yes)
 		(on_board yes)
 		(dnp no)
+		(fields_autoplaced yes)
 		(uuid "1d9b2fdb-dd1a-4cde-bd0f-9d8563bd1ffb")
-		(property "Reference" "#PWR038"
+		(property "Reference" "#PWR021"
 			(at 181.61 58.42 0)
 			(effects
 				(font
@@ -9203,7 +9212,7 @@
 		(instances
 			(project "Badge_Tropicon_2026"
 				(path "/2b0cdf6f-cecd-4c27-9fa6-35f74ce0f57e"
-					(reference "#PWR038")
+					(reference "#PWR021")
 					(unit 1)
 				)
 			)
@@ -9218,8 +9227,9 @@
 		(in_bom yes)
 		(on_board yes)
 		(dnp no)
+		(fields_autoplaced yes)
 		(uuid "207e6a75-7e75-4619-ae6b-7daf424f3327")
-		(property "Reference" "SW1"
+		(property "Reference" "SW3"
 			(at 175.26 145.542 0)
 			(effects
 				(font
@@ -9298,7 +9308,7 @@
 		(instances
 			(project "Badge_Tropicon_2026"
 				(path "/2b0cdf6f-cecd-4c27-9fa6-35f74ce0f57e"
-					(reference "SW1")
+					(reference "SW3")
 					(unit 1)
 				)
 			)
@@ -9314,7 +9324,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "27770998-20a5-4f0e-b83d-80fcfbb056bd")
-		(property "Reference" "C11"
+		(property "Reference" "C12"
 			(at 297.18 71.1199 0)
 			(effects
 				(font
@@ -9332,7 +9342,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Capacitor_SMD:C_0603_1608Metric"
 			(at 294.3352 76.2 0)
 			(effects
 				(font
@@ -9359,6 +9369,15 @@
 				(hide yes)
 			)
 		)
+		(property "LCSC#" "C14663"
+			(at 293.37 72.39 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "39231fd9-70ff-4710-ae05-d3e92e864abf")
 		)
@@ -9368,7 +9387,7 @@
 		(instances
 			(project ""
 				(path "/2b0cdf6f-cecd-4c27-9fa6-35f74ce0f57e"
-					(reference "C11")
+					(reference "C12")
 					(unit 1)
 				)
 			)
@@ -9382,8 +9401,9 @@
 		(in_bom yes)
 		(on_board yes)
 		(dnp no)
+		(fields_autoplaced yes)
 		(uuid "286cf570-c798-4491-8c9c-370099a709fc")
-		(property "Reference" "C7"
+		(property "Reference" "C18"
 			(at 348.996 120.65 0)
 			(effects
 				(font
@@ -9401,7 +9421,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Capacitor_SMD:C_0603_1608Metric"
 			(at 347.6752 125.73 0)
 			(effects
 				(font
@@ -9428,6 +9448,15 @@
 				(hide yes)
 			)
 		)
+		(property "LCSC#" "C7503509"
+			(at 346.71 121.92 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "4dfe9ddb-1c78-4874-86f1-2045b78fcc86")
 		)
@@ -9437,7 +9466,7 @@
 		(instances
 			(project ""
 				(path "/2b0cdf6f-cecd-4c27-9fa6-35f74ce0f57e"
-					(reference "C7")
+					(reference "C18")
 					(unit 1)
 				)
 			)
@@ -9471,7 +9500,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Inductor_SMD:L_0603_1608Metric"
 			(at 345.44 148.59 0)
 			(effects
 				(font
@@ -9498,7 +9527,7 @@
 				(hide yes)
 			)
 		)
-		(property "LCSC#" "C90214"
+		(property "LCSC#" "C668512"
 			(at 345.44 148.59 0)
 			(effects
 				(font
@@ -9530,6 +9559,7 @@
 		(in_bom yes)
 		(on_board yes)
 		(dnp no)
+		(fields_autoplaced yes)
 		(uuid "2ada888d-acf2-4821-86e3-96051a42872e")
 		(property "Reference" "F1"
 			(at 63.5 122.301 0)
@@ -9626,7 +9656,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "2aedcf1c-1763-49d4-a448-818937de7fca")
-		(property "Reference" "L2"
+		(property "Reference" "L3"
 			(at 365.76 147.3199 0)
 			(effects
 				(font
@@ -9644,7 +9674,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Inductor_SMD:L_0603_1608Metric"
 			(at 364.49 148.59 0)
 			(effects
 				(font
@@ -9671,7 +9701,7 @@
 				(hide yes)
 			)
 		)
-		(property "LCSC#" "C701184"
+		(property "LCSC#" "C434822"
 			(at 364.49 148.59 0)
 			(effects
 				(font
@@ -9689,7 +9719,7 @@
 		(instances
 			(project ""
 				(path "/2b0cdf6f-cecd-4c27-9fa6-35f74ce0f57e"
-					(reference "L2")
+					(reference "L3")
 					(unit 1)
 				)
 			)
@@ -9703,8 +9733,9 @@
 		(in_bom yes)
 		(on_board yes)
 		(dnp no)
+		(fields_autoplaced yes)
 		(uuid "2d6c328a-7e43-4856-bf60-9610a95bf5be")
-		(property "Reference" "#PWR033"
+		(property "Reference" "#PWR023"
 			(at 198.12 161.29 0)
 			(effects
 				(font
@@ -9754,7 +9785,7 @@
 		(instances
 			(project "Badge_Tropicon_2026"
 				(path "/2b0cdf6f-cecd-4c27-9fa6-35f74ce0f57e"
-					(reference "#PWR033")
+					(reference "#PWR023")
 					(unit 1)
 				)
 			)
@@ -9769,8 +9800,9 @@
 		(in_bom yes)
 		(on_board yes)
 		(dnp no)
+		(fields_autoplaced yes)
 		(uuid "30e752b2-4abb-49c6-9837-24728891a30d")
-		(property "Reference" "#PWR0102"
+		(property "Reference" "#PWR014"
 			(at 135.89 143.51 0)
 			(effects
 				(font
@@ -9820,7 +9852,7 @@
 		(instances
 			(project "Badge_Tropicon_2026"
 				(path "/2b0cdf6f-cecd-4c27-9fa6-35f74ce0f57e"
-					(reference "#PWR0102")
+					(reference "#PWR014")
 					(unit 1)
 				)
 			)
@@ -9834,8 +9866,9 @@
 		(in_bom yes)
 		(on_board yes)
 		(dnp no)
+		(fields_autoplaced yes)
 		(uuid "32b230c2-af7c-4c02-87b2-a83d953f6523")
-		(property "Reference" "#PWR025"
+		(property "Reference" "#PWR01"
 			(at 26.162 55.88 0)
 			(effects
 				(font
@@ -9885,7 +9918,7 @@
 		(instances
 			(project "Badge_Tropicon_2026"
 				(path "/2b0cdf6f-cecd-4c27-9fa6-35f74ce0f57e"
-					(reference "#PWR025")
+					(reference "#PWR01")
 					(unit 1)
 				)
 			)
@@ -9899,8 +9932,9 @@
 		(in_bom yes)
 		(on_board yes)
 		(dnp no)
+		(fields_autoplaced yes)
 		(uuid "34e2c300-367c-4d20-8909-c3e4595b4b95")
-		(property "Reference" "C13"
+		(property "Reference" "C3"
 			(at 114.0968 64.8716 0)
 			(effects
 				(font
@@ -9972,7 +10006,7 @@
 		(instances
 			(project "Badge_Tropicon_2026"
 				(path "/2b0cdf6f-cecd-4c27-9fa6-35f74ce0f57e"
-					(reference "C13")
+					(reference "C3")
 					(unit 1)
 				)
 			)
@@ -9986,8 +10020,9 @@
 		(in_bom yes)
 		(on_board yes)
 		(dnp yes)
+		(fields_autoplaced yes)
 		(uuid "365ba707-69c3-43b9-81af-94ad6b406683")
-		(property "Reference" "R5"
+		(property "Reference" "R1"
 			(at 29.591 57.404 90)
 			(effects
 				(font
@@ -10012,7 +10047,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "https://datasheet.lcsc.com/lcsc/1810170519_PANASONIC-ERJ3RBD5101V_C191782.pdf"
+		(property "Datasheet" ""
 			(at 32.258 58.42 0)
 			(effects
 				(font
@@ -10066,7 +10101,7 @@
 		(instances
 			(project "Badge_Tropicon_2026"
 				(path "/2b0cdf6f-cecd-4c27-9fa6-35f74ce0f57e"
-					(reference "R5")
+					(reference "R1")
 					(unit 1)
 				)
 			)
@@ -10081,8 +10116,9 @@
 		(in_bom yes)
 		(on_board yes)
 		(dnp no)
+		(fields_autoplaced yes)
 		(uuid "390986e5-d2b8-4a93-866d-c8243218b983")
-		(property "Reference" "#PWR039"
+		(property "Reference" "#PWR026"
 			(at 233.68 38.1 0)
 			(effects
 				(font
@@ -10132,7 +10168,7 @@
 		(instances
 			(project "Badge_Tropicon_2026"
 				(path "/2b0cdf6f-cecd-4c27-9fa6-35f74ce0f57e"
-					(reference "#PWR039")
+					(reference "#PWR026")
 					(unit 1)
 				)
 			)
@@ -10146,8 +10182,9 @@
 		(in_bom yes)
 		(on_board yes)
 		(dnp no)
+		(fields_autoplaced yes)
 		(uuid "3a23fe2b-54cd-4caf-ac56-7a93f08a5934")
-		(property "Reference" "C3"
+		(property "Reference" "C2"
 			(at 105.2068 64.8716 0)
 			(effects
 				(font
@@ -10219,7 +10256,7 @@
 		(instances
 			(project "Badge_Tropicon_2026"
 				(path "/2b0cdf6f-cecd-4c27-9fa6-35f74ce0f57e"
-					(reference "C3")
+					(reference "C2")
 					(unit 1)
 				)
 			)
@@ -10233,8 +10270,9 @@
 		(in_bom yes)
 		(on_board yes)
 		(dnp no)
+		(fields_autoplaced yes)
 		(uuid "3cc57b64-0122-4e4e-8df0-324c3587af58")
-		(property "Reference" "C14"
+		(property "Reference" "C6"
 			(at 179.959 145.669 0)
 			(effects
 				(font
@@ -10315,7 +10353,7 @@
 		(instances
 			(project "Badge_Tropicon_2026"
 				(path "/2b0cdf6f-cecd-4c27-9fa6-35f74ce0f57e"
-					(reference "C14")
+					(reference "C6")
 					(unit 1)
 				)
 			)
@@ -10329,8 +10367,9 @@
 		(in_bom yes)
 		(on_board yes)
 		(dnp no)
+		(fields_autoplaced yes)
 		(uuid "3ce52a7f-7fac-46b8-bca6-d4c9bd4f1a45")
-		(property "Reference" "#PWR034"
+		(property "Reference" "#PWR024"
 			(at 208.28 157.353 0)
 			(effects
 				(font
@@ -10380,7 +10419,7 @@
 		(instances
 			(project "Badge_Tropicon_2026"
 				(path "/2b0cdf6f-cecd-4c27-9fa6-35f74ce0f57e"
-					(reference "#PWR034")
+					(reference "#PWR024")
 					(unit 1)
 				)
 			)
@@ -10396,7 +10435,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "3dbdb365-793e-4026-b4c5-93f53ec71c10")
-		(property "Reference" "C5"
+		(property "Reference" "C17"
 			(at 349.25 137.1599 0)
 			(effects
 				(font
@@ -10414,7 +10453,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Capacitor_SMD:C_0603_1608Metric"
 			(at 346.4052 142.24 0)
 			(effects
 				(font
@@ -10441,6 +10480,15 @@
 				(hide yes)
 			)
 		)
+		(property "LCSC#" "C2241577"
+			(at 345.44 138.43 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "7e00ec37-7780-4bc0-b50b-70889742219f")
 		)
@@ -10450,7 +10498,7 @@
 		(instances
 			(project ""
 				(path "/2b0cdf6f-cecd-4c27-9fa6-35f74ce0f57e"
-					(reference "C5")
+					(reference "C17")
 					(unit 1)
 				)
 			)
@@ -10464,8 +10512,9 @@
 		(in_bom yes)
 		(on_board yes)
 		(dnp no)
+		(fields_autoplaced yes)
 		(uuid "419caf33-607a-4cb5-894b-458d27af8905")
-		(property "Reference" "C15"
+		(property "Reference" "C7"
 			(at 210.6168 146.1516 0)
 			(effects
 				(font
@@ -10546,94 +10595,7 @@
 		(instances
 			(project "Badge_Tropicon_2026"
 				(path "/2b0cdf6f-cecd-4c27-9fa6-35f74ce0f57e"
-					(reference "C15")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "Device:C_Small")
-		(at 93.98 66.04 0)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(uuid "4366c4b5-36d3-4e5a-ad86-f5aa553b5347")
-		(property "Reference" "C3"
-			(at 96.3168 64.8716 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Value" "1uF"
-			(at 96.3168 67.183 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Footprint" "Capacitor_SMD:C_0603_1608Metric"
-			(at 93.98 66.04 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" ""
-			(at 93.98 66.04 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" ""
-			(at 93.98 66.04 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "manf#" "TMK107BJ105KA8T"
-			(at 93.98 66.04 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "LCSC#" "C15849"
-			(at 93.98 66.04 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "1"
-			(uuid "bede8b07-4e5c-4a5c-ad92-6f266d212fc6")
-		)
-		(pin "2"
-			(uuid "b4c6854f-6a1f-4a58-9606-0d3868f7408f")
-		)
-		(instances
-			(project "Badge_Tropicon_2026"
-				(path "/2b0cdf6f-cecd-4c27-9fa6-35f74ce0f57e"
-					(reference "C3")
+					(reference "C7")
 					(unit 1)
 				)
 			)
@@ -10648,8 +10610,9 @@
 		(in_bom yes)
 		(on_board yes)
 		(dnp no)
+		(fields_autoplaced yes)
 		(uuid "461d206e-7c4c-4742-9557-b233954e37ce")
-		(property "Reference" "#PWR024"
+		(property "Reference" "#PWR015"
 			(at 135.89 151.13 0)
 			(effects
 				(font
@@ -10699,7 +10662,7 @@
 		(instances
 			(project "Badge_Tropicon_2026"
 				(path "/2b0cdf6f-cecd-4c27-9fa6-35f74ce0f57e"
-					(reference "#PWR024")
+					(reference "#PWR015")
 					(unit 1)
 				)
 			)
@@ -10713,8 +10676,9 @@
 		(in_bom yes)
 		(on_board yes)
 		(dnp no)
+		(fields_autoplaced yes)
 		(uuid "501bebe0-3f65-40ed-b17d-c523b50044e9")
-		(property "Reference" "#PWR027"
+		(property "Reference" "#PWR012"
 			(at 111.76 63.5 0)
 			(effects
 				(font
@@ -10764,7 +10728,7 @@
 		(instances
 			(project "Badge_Tropicon_2026"
 				(path "/2b0cdf6f-cecd-4c27-9fa6-35f74ce0f57e"
-					(reference "#PWR027")
+					(reference "#PWR012")
 					(unit 1)
 				)
 			)
@@ -10778,8 +10742,9 @@
 		(in_bom yes)
 		(on_board yes)
 		(dnp no)
+		(fields_autoplaced yes)
 		(uuid "565d74c8-dd42-4af4-88ea-fac7ff1893f4")
-		(property "Reference" "#PWR0101"
+		(property "Reference" "#PWR016"
 			(at 154.94 138.43 0)
 			(effects
 				(font
@@ -10829,7 +10794,7 @@
 		(instances
 			(project "Badge_Tropicon_2026"
 				(path "/2b0cdf6f-cecd-4c27-9fa6-35f74ce0f57e"
-					(reference "#PWR0101")
+					(reference "#PWR016")
 					(unit 1)
 				)
 			)
@@ -10843,8 +10808,9 @@
 		(in_bom yes)
 		(on_board yes)
 		(dnp no)
+		(fields_autoplaced yes)
 		(uuid "595eb5fd-f1d4-4247-a97c-11ef466253c7")
-		(property "Reference" "#PWR030"
+		(property "Reference" "#PWR017"
 			(at 154.94 160.02 0)
 			(effects
 				(font
@@ -10894,7 +10860,7 @@
 		(instances
 			(project "Badge_Tropicon_2026"
 				(path "/2b0cdf6f-cecd-4c27-9fa6-35f74ce0f57e"
-					(reference "#PWR030")
+					(reference "#PWR017")
 					(unit 1)
 				)
 			)
@@ -10908,8 +10874,9 @@
 		(in_bom yes)
 		(on_board yes)
 		(dnp no)
+		(fields_autoplaced yes)
 		(uuid "5b9cfdc7-af0d-4fe8-8d10-24395ea8bcb1")
-		(property "Reference" "#PWR014"
+		(property "Reference" "#PWR045"
 			(at 368.3 69.85 0)
 			(effects
 				(font
@@ -10959,7 +10926,7 @@
 		(instances
 			(project "Badge_Tropicon_2026"
 				(path "/2b0cdf6f-cecd-4c27-9fa6-35f74ce0f57e"
-					(reference "#PWR014")
+					(reference "#PWR045")
 					(unit 1)
 				)
 			)
@@ -10974,8 +10941,9 @@
 		(in_bom yes)
 		(on_board yes)
 		(dnp no)
+		(fields_autoplaced yes)
 		(uuid "5c0a1f89-9f58-473b-904b-c06c502b8ea7")
-		(property "Reference" "SW6"
+		(property "Reference" "SW5"
 			(at 227.203 38.354 0)
 			(effects
 				(font
@@ -11055,7 +11023,7 @@
 		(instances
 			(project "Badge_Tropicon_2026"
 				(path "/2b0cdf6f-cecd-4c27-9fa6-35f74ce0f57e"
-					(reference "SW6")
+					(reference "SW5")
 					(unit 1)
 				)
 			)
@@ -11071,7 +11039,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "5d517e8e-528b-4546-be5e-c286429dda9f")
-		(property "Reference" "AE2"
+		(property "Reference" "AE1"
 			(at 378.46 41.2749 0)
 			(effects
 				(font
@@ -11125,7 +11093,7 @@
 		(instances
 			(project ""
 				(path "/2b0cdf6f-cecd-4c27-9fa6-35f74ce0f57e"
-					(reference "AE2")
+					(reference "AE1")
 					(unit 1)
 				)
 			)
@@ -11140,8 +11108,9 @@
 		(in_bom yes)
 		(on_board yes)
 		(dnp no)
+		(fields_autoplaced yes)
 		(uuid "66798801-a87b-4657-8bd3-de9e49af4dd4")
-		(property "Reference" "SW5"
+		(property "Reference" "SW4"
 			(at 227.33 22.098 0)
 			(effects
 				(font
@@ -11221,7 +11190,7 @@
 		(instances
 			(project "Badge_Tropicon_2026"
 				(path "/2b0cdf6f-cecd-4c27-9fa6-35f74ce0f57e"
-					(reference "SW5")
+					(reference "SW4")
 					(unit 1)
 				)
 			)
@@ -11235,6 +11204,7 @@
 		(in_bom yes)
 		(on_board yes)
 		(dnp no)
+		(fields_autoplaced yes)
 		(uuid "6aa66674-fb28-45ac-bc74-19241db3cc3c")
 		(property "Reference" "P1"
 			(at 45.8978 120.2182 0)
@@ -11362,8 +11332,9 @@
 		(in_bom yes)
 		(on_board yes)
 		(dnp no)
+		(fields_autoplaced yes)
 		(uuid "6f97ba73-440a-4d22-95aa-eadc8be536b2")
-		(property "Reference" "#PWR020"
+		(property "Reference" "#PWR07"
 			(at 81.28 67.31 0)
 			(effects
 				(font
@@ -11413,7 +11384,7 @@
 		(instances
 			(project "Badge_Tropicon_2026"
 				(path "/2b0cdf6f-cecd-4c27-9fa6-35f74ce0f57e"
-					(reference "#PWR020")
+					(reference "#PWR07")
 					(unit 1)
 				)
 			)
@@ -11427,8 +11398,9 @@
 		(in_bom yes)
 		(on_board yes)
 		(dnp no)
+		(fields_autoplaced yes)
 		(uuid "6fd0f751-5c1a-418c-b129-407d10bd18a5")
-		(property "Reference" "R6"
+		(property "Reference" "R4"
 			(at 156.4386 148.6916 0)
 			(effects
 				(font
@@ -11509,7 +11481,7 @@
 		(instances
 			(project "Badge_Tropicon_2026"
 				(path "/2b0cdf6f-cecd-4c27-9fa6-35f74ce0f57e"
-					(reference "R6")
+					(reference "R4")
 					(unit 1)
 				)
 			)
@@ -11525,7 +11497,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "70757c77-b370-4cbf-a246-cdeb05e3654d")
-		(property "Reference" "C4"
+		(property "Reference" "C22"
 			(at 375.92 146.05 90)
 			(effects
 				(font
@@ -11541,7 +11513,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Capacitor_SMD:C_0603_1608Metric"
 			(at 379.73 152.7048 0)
 			(effects
 				(font
@@ -11568,6 +11540,15 @@
 				(hide yes)
 			)
 		)
+		(property "LCSC#" "C519500"
+			(at 375.92 153.67 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "d11597ee-84ef-460c-930a-8485dabb8d52")
 		)
@@ -11577,7 +11558,7 @@
 		(instances
 			(project "Badge_Tropicon_2026"
 				(path "/2b0cdf6f-cecd-4c27-9fa6-35f74ce0f57e"
-					(reference "C4")
+					(reference "C22")
 					(unit 1)
 				)
 			)
@@ -11591,8 +11572,9 @@
 		(in_bom yes)
 		(on_board yes)
 		(dnp no)
+		(fields_autoplaced yes)
 		(uuid "70b38026-2e6f-4c7d-8d77-5346318194e5")
-		(property "Reference" "R1"
+		(property "Reference" "R6"
 			(at 293.624 121.666 0)
 			(effects
 				(font
@@ -11610,7 +11592,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_SMD:R_0603_1608Metric"
 			(at 290.83 123.19 0)
 			(effects
 				(font
@@ -11619,7 +11601,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" ""
 			(at 290.83 123.19 0)
 			(effects
 				(font
@@ -11637,7 +11619,7 @@
 				(hide yes)
 			)
 		)
-		(property "LCSC#" ""
+		(property "LCSC#" "C2930027"
 			(at 290.83 123.19 0)
 			(effects
 				(font
@@ -11655,7 +11637,7 @@
 		(instances
 			(project "Badge_Tropicon_2026"
 				(path "/2b0cdf6f-cecd-4c27-9fa6-35f74ce0f57e"
-					(reference "R1")
+					(reference "R6")
 					(unit 1)
 				)
 			)
@@ -11671,7 +11653,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "7179c9cb-7638-4bda-b1e3-3301b0ff2eeb")
-		(property "Reference" "L5"
+		(property "Reference" "L2"
 			(at 361.95 48.26 90)
 			(effects
 				(font
@@ -11687,7 +11669,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Inductor_SMD:L_0603_1608Metric"
 			(at 361.95 53.34 0)
 			(effects
 				(font
@@ -11714,6 +11696,15 @@
 				(hide yes)
 			)
 		)
+		(property "LCSC#" "C86131"
+			(at 361.95 53.34 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "c080da08-2aa8-485d-a46e-c100f14298fb")
 		)
@@ -11723,7 +11714,7 @@
 		(instances
 			(project ""
 				(path "/2b0cdf6f-cecd-4c27-9fa6-35f74ce0f57e"
-					(reference "L5")
+					(reference "L2")
 					(unit 1)
 				)
 			)
@@ -11739,7 +11730,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "722667ef-26cd-4bea-8d9a-37c732ee2c17")
-		(property "Reference" "C9"
+		(property "Reference" "C19"
 			(at 359.41 57.1499 0)
 			(effects
 				(font
@@ -11757,7 +11748,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Capacitor_SMD:C_0603_1608Metric"
 			(at 356.5652 62.23 0)
 			(effects
 				(font
@@ -11784,6 +11775,15 @@
 				(hide yes)
 			)
 		)
+		(property "LCSC#" "C1679"
+			(at 355.6 58.42 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "eae8743e-fcad-4590-931d-a318503f0072")
 		)
@@ -11793,7 +11793,7 @@
 		(instances
 			(project ""
 				(path "/2b0cdf6f-cecd-4c27-9fa6-35f74ce0f57e"
-					(reference "C9")
+					(reference "C19")
 					(unit 1)
 				)
 			)
@@ -11807,8 +11807,9 @@
 		(in_bom yes)
 		(on_board yes)
 		(dnp no)
+		(fields_autoplaced yes)
 		(uuid "753b0f5d-5dd7-48c6-9750-7b6996f7d194")
-		(property "Reference" "C2"
+		(property "Reference" "C16"
 			(at 337.82 120.396 0)
 			(effects
 				(font
@@ -11826,7 +11827,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Capacitor_SMD:C_0603_1608Metric"
 			(at 336.2452 125.73 0)
 			(effects
 				(font
@@ -11835,7 +11836,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" ""
 			(at 335.28 121.92 0)
 			(effects
 				(font
@@ -11853,6 +11854,15 @@
 				(hide yes)
 			)
 		)
+		(property "LCSC#" "C15849"
+			(at 335.28 121.92 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "ecbcdd4f-6f3a-41cc-bf9c-92ce9c9612a0")
 		)
@@ -11862,7 +11872,7 @@
 		(instances
 			(project ""
 				(path "/2b0cdf6f-cecd-4c27-9fa6-35f74ce0f57e"
-					(reference "C2")
+					(reference "C16")
 					(unit 1)
 				)
 			)
@@ -11876,8 +11886,9 @@
 		(in_bom yes)
 		(on_board yes)
 		(dnp no)
+		(fields_autoplaced yes)
 		(uuid "762f6278-abe5-4be6-95b9-baf330b84c87")
-		(property "Reference" "#PWR06"
+		(property "Reference" "#PWR034"
 			(at 312.42 218.44 0)
 			(effects
 				(font
@@ -11927,7 +11938,7 @@
 		(instances
 			(project "Badge_Tropicon_2026"
 				(path "/2b0cdf6f-cecd-4c27-9fa6-35f74ce0f57e"
-					(reference "#PWR06")
+					(reference "#PWR034")
 					(unit 1)
 				)
 			)
@@ -11941,8 +11952,9 @@
 		(in_bom yes)
 		(on_board yes)
 		(dnp no)
+		(fields_autoplaced yes)
 		(uuid "76ad789a-a780-4e8d-92eb-aeabfc0ccd76")
-		(property "Reference" "#PWR07"
+		(property "Reference" "#PWR035"
 			(at 312.42 241.3 0)
 			(effects
 				(font
@@ -11992,7 +12004,7 @@
 		(instances
 			(project ""
 				(path "/2b0cdf6f-cecd-4c27-9fa6-35f74ce0f57e"
-					(reference "#PWR07")
+					(reference "#PWR035")
 					(unit 1)
 				)
 			)
@@ -12007,8 +12019,9 @@
 		(in_bom yes)
 		(on_board yes)
 		(dnp no)
+		(fields_autoplaced yes)
 		(uuid "78701d5b-80ce-41bc-8126-91eee4eee383")
-		(property "Reference" "#PWR041"
+		(property "Reference" "#PWR028"
 			(at 233.68 71.12 0)
 			(effects
 				(font
@@ -12058,7 +12071,7 @@
 		(instances
 			(project "Badge_Tropicon_2026"
 				(path "/2b0cdf6f-cecd-4c27-9fa6-35f74ce0f57e"
-					(reference "#PWR041")
+					(reference "#PWR028")
 					(unit 1)
 				)
 			)
@@ -12074,7 +12087,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "788f5e3b-b573-4220-9a92-287a74aceaab")
-		(property "Reference" "U1"
+		(property "Reference" "U5"
 			(at 331.47 45.72 0)
 			(effects
 				(font
@@ -12162,7 +12175,7 @@
 		(instances
 			(project ""
 				(path "/2b0cdf6f-cecd-4c27-9fa6-35f74ce0f57e"
-					(reference "U1")
+					(reference "U5")
 					(unit 1)
 				)
 			)
@@ -12176,8 +12189,9 @@
 		(in_bom yes)
 		(on_board yes)
 		(dnp no)
+		(fields_autoplaced yes)
 		(uuid "7a9de9d0-a2af-48f5-942c-53f8871ab889")
-		(property "Reference" "#PWR044"
+		(property "Reference" "#PWR05"
 			(at 67.31 142.24 0)
 			(effects
 				(font
@@ -12227,7 +12241,7 @@
 		(instances
 			(project "Badge_Tropicon_2026"
 				(path "/2b0cdf6f-cecd-4c27-9fa6-35f74ce0f57e"
-					(reference "#PWR044")
+					(reference "#PWR05")
 					(unit 1)
 				)
 			)
@@ -12241,8 +12255,9 @@
 		(in_bom yes)
 		(on_board yes)
 		(dnp no)
+		(fields_autoplaced yes)
 		(uuid "7b646cdc-28e8-4c1f-aec8-342cf903d9ea")
-		(property "Reference" "R8"
+		(property "Reference" "R2"
 			(at 59.309 131.064 90)
 			(effects
 				(font
@@ -12267,7 +12282,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "https://datasheet.lcsc.com/lcsc/1810170519_PANASONIC-ERJ3RBD5101V_C191782.pdf"
+		(property "Datasheet" ""
 			(at 62.23 132.08 0)
 			(effects
 				(font
@@ -12321,7 +12336,7 @@
 		(instances
 			(project "Badge_Tropicon_2026"
 				(path "/2b0cdf6f-cecd-4c27-9fa6-35f74ce0f57e"
-					(reference "R8")
+					(reference "R2")
 					(unit 1)
 				)
 			)
@@ -12335,8 +12350,9 @@
 		(in_bom yes)
 		(on_board yes)
 		(dnp no)
+		(fields_autoplaced yes)
 		(uuid "7b8e23e8-bef0-4bfe-b04f-92d7fd1fd825")
-		(property "Reference" "#PWR02"
+		(property "Reference" "#PWR037"
 			(at 335.28 134.62 0)
 			(effects
 				(font
@@ -12386,7 +12402,7 @@
 		(instances
 			(project "Badge_Tropicon_2026"
 				(path "/2b0cdf6f-cecd-4c27-9fa6-35f74ce0f57e"
-					(reference "#PWR02")
+					(reference "#PWR037")
 					(unit 1)
 				)
 			)
@@ -12400,8 +12416,9 @@
 		(in_bom yes)
 		(on_board yes)
 		(dnp no)
+		(fields_autoplaced yes)
 		(uuid "7ed18313-9bef-4a1e-bf4d-d256049ecb71")
-		(property "Reference" "#PWR010"
+		(property "Reference" "#PWR031"
 			(at 299.72 85.09 0)
 			(effects
 				(font
@@ -12451,7 +12468,7 @@
 		(instances
 			(project "Badge_Tropicon_2026"
 				(path "/2b0cdf6f-cecd-4c27-9fa6-35f74ce0f57e"
-					(reference "#PWR010")
+					(reference "#PWR031")
 					(unit 1)
 				)
 			)
@@ -12467,7 +12484,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "7ff19ef4-775b-466a-9519-3d39235f7f2e")
-		(property "Reference" "C6"
+		(property "Reference" "C20"
 			(at 355.6 146.05 90)
 			(effects
 				(font
@@ -12483,7 +12500,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Capacitor_SMD:C_0603_1608Metric"
 			(at 359.41 152.7048 0)
 			(effects
 				(font
@@ -12510,6 +12527,15 @@
 				(hide yes)
 			)
 		)
+		(property "LCSC#" "C41361249"
+			(at 355.6 153.67 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "4db61808-dc2a-4b7f-8396-773ebca02d8d")
 		)
@@ -12519,7 +12545,7 @@
 		(instances
 			(project ""
 				(path "/2b0cdf6f-cecd-4c27-9fa6-35f74ce0f57e"
-					(reference "C6")
+					(reference "C20")
 					(unit 1)
 				)
 			)
@@ -12534,8 +12560,9 @@
 		(in_bom yes)
 		(on_board yes)
 		(dnp no)
+		(fields_autoplaced yes)
 		(uuid "819235f4-e54c-4021-ba0d-46e40c7dc2bc")
-		(property "Reference" "#PWR040"
+		(property "Reference" "#PWR027"
 			(at 233.68 54.61 0)
 			(effects
 				(font
@@ -12585,7 +12612,7 @@
 		(instances
 			(project "Badge_Tropicon_2026"
 				(path "/2b0cdf6f-cecd-4c27-9fa6-35f74ce0f57e"
-					(reference "#PWR040")
+					(reference "#PWR027")
 					(unit 1)
 				)
 			)
@@ -12599,8 +12626,9 @@
 		(in_bom yes)
 		(on_board yes)
 		(dnp no)
+		(fields_autoplaced yes)
 		(uuid "82d5aba5-c500-4ce2-9999-b0e935070b45")
-		(property "Reference" "#PWR017"
+		(property "Reference" "#PWR033"
 			(at 306.07 119.38 0)
 			(effects
 				(font
@@ -12650,7 +12678,7 @@
 		(instances
 			(project "Badge_Tropicon_2026"
 				(path "/2b0cdf6f-cecd-4c27-9fa6-35f74ce0f57e"
-					(reference "#PWR017")
+					(reference "#PWR033")
 					(unit 1)
 				)
 			)
@@ -12664,8 +12692,9 @@
 		(in_bom yes)
 		(on_board yes)
 		(dnp no)
+		(fields_autoplaced yes)
 		(uuid "8a9bd6ac-cbe0-4f23-9bfd-dfabb2f88362")
-		(property "Reference" "#PWR08"
+		(property "Reference" "#PWR039"
 			(at 346.71 233.68 0)
 			(effects
 				(font
@@ -12715,7 +12744,7 @@
 		(instances
 			(project "Badge_Tropicon_2026"
 				(path "/2b0cdf6f-cecd-4c27-9fa6-35f74ce0f57e"
-					(reference "#PWR08")
+					(reference "#PWR039")
 					(unit 1)
 				)
 			)
@@ -12808,8 +12837,9 @@
 		(in_bom yes)
 		(on_board yes)
 		(dnp no)
+		(fields_autoplaced yes)
 		(uuid "90ed16b6-cd3c-492e-b03e-7aea292c9332")
-		(property "Reference" "#PWR032"
+		(property "Reference" "#PWR022"
 			(at 184.15 157.48 0)
 			(effects
 				(font
@@ -12859,7 +12889,7 @@
 		(instances
 			(project "Badge_Tropicon_2026"
 				(path "/2b0cdf6f-cecd-4c27-9fa6-35f74ce0f57e"
-					(reference "#PWR032")
+					(reference "#PWR022")
 					(unit 1)
 				)
 			)
@@ -12874,8 +12904,9 @@
 		(in_bom yes)
 		(on_board yes)
 		(dnp no)
+		(fields_autoplaced yes)
 		(uuid "923d822e-c023-46b9-bfe4-2513f5d4e2c8")
-		(property "Reference" "C17"
+		(property "Reference" "C5"
 			(at 173.736 53.34 90)
 			(effects
 				(font
@@ -12956,7 +12987,7 @@
 		(instances
 			(project "Badge_Tropicon_2026"
 				(path "/2b0cdf6f-cecd-4c27-9fa6-35f74ce0f57e"
-					(reference "C17")
+					(reference "C5")
 					(unit 1)
 				)
 			)
@@ -12972,7 +13003,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "9b042362-56af-4474-ba70-7a88159cc83f")
-		(property "Reference" "#PWR04"
+		(property "Reference" "#PWR042"
 			(at 355.6 220.98 0)
 			(effects
 				(font
@@ -13022,7 +13053,7 @@
 		(instances
 			(project ""
 				(path "/2b0cdf6f-cecd-4c27-9fa6-35f74ce0f57e"
-					(reference "#PWR04")
+					(reference "#PWR042")
 					(unit 1)
 				)
 			)
@@ -13038,7 +13069,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "a15ecde1-cbbe-4a34-bb7a-7ac6567522c7")
-		(property "Reference" "C10"
+		(property "Reference" "C21"
 			(at 372.11 57.1499 0)
 			(effects
 				(font
@@ -13056,7 +13087,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Capacitor_SMD:C_0603_1608Metric"
 			(at 369.2652 62.23 0)
 			(effects
 				(font
@@ -13083,6 +13114,15 @@
 				(hide yes)
 			)
 		)
+		(property "LCSC#" "C1679"
+			(at 368.3 58.42 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "961eaa53-1b0b-4541-ac5f-ef677c3cc215")
 		)
@@ -13092,7 +13132,7 @@
 		(instances
 			(project "Badge_Tropicon_2026"
 				(path "/2b0cdf6f-cecd-4c27-9fa6-35f74ce0f57e"
-					(reference "C10")
+					(reference "C21")
 					(unit 1)
 				)
 			)
@@ -13108,7 +13148,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "a216897f-f22e-43c8-b72b-5240962fc728")
-		(property "Reference" "#PWR01"
+		(property "Reference" "#PWR032"
 			(at 304.8 167.64 0)
 			(effects
 				(font
@@ -13158,7 +13198,7 @@
 		(instances
 			(project "Badge_Tropicon_2026"
 				(path "/2b0cdf6f-cecd-4c27-9fa6-35f74ce0f57e"
-					(reference "#PWR01")
+					(reference "#PWR032")
 					(unit 1)
 				)
 			)
@@ -13172,8 +13212,9 @@
 		(in_bom yes)
 		(on_board yes)
 		(dnp no)
+		(fields_autoplaced yes)
 		(uuid "a3bb04d2-e0f9-495e-bf0e-5e9a4f6b1bb1")
-		(property "Reference" "#PWR021"
+		(property "Reference" "#PWR09"
 			(at 93.98 76.962 0)
 			(effects
 				(font
@@ -13223,7 +13264,7 @@
 		(instances
 			(project "Badge_Tropicon_2026"
 				(path "/2b0cdf6f-cecd-4c27-9fa6-35f74ce0f57e"
-					(reference "#PWR021")
+					(reference "#PWR09")
 					(unit 1)
 				)
 			)
@@ -13237,8 +13278,9 @@
 		(in_bom yes)
 		(on_board yes)
 		(dnp no)
+		(fields_autoplaced yes)
 		(uuid "a700d17c-f233-4a2a-b36b-f8e79bd46d57")
-		(property "Reference" "U5"
+		(property "Reference" "U2"
 			(at 198.12 137.3632 0)
 			(effects
 				(font
@@ -13326,7 +13368,7 @@
 		(instances
 			(project "Badge_Tropicon_2026"
 				(path "/2b0cdf6f-cecd-4c27-9fa6-35f74ce0f57e"
-					(reference "U5")
+					(reference "U2")
 					(unit 1)
 				)
 			)
@@ -13340,8 +13382,9 @@
 		(in_bom yes)
 		(on_board yes)
 		(dnp no)
+		(fields_autoplaced yes)
 		(uuid "a7053443-ab1b-422c-a1e2-28903bd18cdb")
-		(property "Reference" "#PWR018"
+		(property "Reference" "#PWR047"
 			(at 387.35 153.67 0)
 			(effects
 				(font
@@ -13391,7 +13434,95 @@
 		(instances
 			(project "Badge_Tropicon_2026"
 				(path "/2b0cdf6f-cecd-4c27-9fa6-35f74ce0f57e"
-					(reference "#PWR018")
+					(reference "#PWR047")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Device:C_Small")
+		(at 93.98 66.04 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "a7cc62e4-9467-4248-9827-b0d282466bfd")
+		(property "Reference" "C1"
+			(at 96.3168 64.8716 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "1uF"
+			(at 96.3168 67.183 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" "Capacitor_SMD:C_0603_1608Metric"
+			(at 93.98 66.04 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 93.98 66.04 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" ""
+			(at 93.98 66.04 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "manf#" "TMK107BJ105KA8T"
+			(at 93.98 66.04 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC#" "C15849"
+			(at 93.98 66.04 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "dc28b476-5f6d-46cd-a9ea-71476b06dabc")
+		)
+		(pin "2"
+			(uuid "e0d8a491-7b05-4a25-965c-9a3c6ae3fcf1")
+		)
+		(instances
+			(project "Badge_Tropicon_2026"
+				(path "/2b0cdf6f-cecd-4c27-9fa6-35f74ce0f57e"
+					(reference "C1")
 					(unit 1)
 				)
 			)
@@ -13406,8 +13537,9 @@
 		(in_bom yes)
 		(on_board yes)
 		(dnp no)
+		(fields_autoplaced yes)
 		(uuid "b20548f7-e8e8-431f-8e8e-f9cef6736e82")
-		(property "Reference" "C16"
+		(property "Reference" "C4"
 			(at 172.339 69.342 90)
 			(effects
 				(font
@@ -13488,7 +13620,7 @@
 		(instances
 			(project "Badge_Tropicon_2026"
 				(path "/2b0cdf6f-cecd-4c27-9fa6-35f74ce0f57e"
-					(reference "C16")
+					(reference "C4")
 					(unit 1)
 				)
 			)
@@ -13502,8 +13634,9 @@
 		(in_bom yes)
 		(on_board yes)
 		(dnp no)
+		(fields_autoplaced yes)
 		(uuid "b2dc66a0-e31b-4d53-857d-335c66d4947d")
-		(property "Reference" "#PWR012"
+		(property "Reference" "#PWR038"
 			(at 346.71 74.93 0)
 			(effects
 				(font
@@ -13553,7 +13686,7 @@
 		(instances
 			(project "Badge_Tropicon_2026"
 				(path "/2b0cdf6f-cecd-4c27-9fa6-35f74ce0f57e"
-					(reference "#PWR012")
+					(reference "#PWR038")
 					(unit 1)
 				)
 			)
@@ -13567,8 +13700,9 @@
 		(in_bom yes)
 		(on_board yes)
 		(dnp no)
+		(fields_autoplaced yes)
 		(uuid "b42b6187-63b3-42c1-9a29-43e963092946")
-		(property "Reference" "#PWR026"
+		(property "Reference" "#PWR010"
 			(at 102.87 63.5 0)
 			(effects
 				(font
@@ -13618,7 +13752,7 @@
 		(instances
 			(project "Badge_Tropicon_2026"
 				(path "/2b0cdf6f-cecd-4c27-9fa6-35f74ce0f57e"
-					(reference "#PWR026")
+					(reference "#PWR010")
 					(unit 1)
 				)
 			)
@@ -13634,7 +13768,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "b4d17c51-9054-4347-9486-b810e060d564")
-		(property "Reference" "U2"
+		(property "Reference" "U3"
 			(at 306.9433 160.02 0)
 			(effects
 				(font
@@ -13754,7 +13888,7 @@
 		(instances
 			(project "Badge_Tropicon_2026"
 				(path "/2b0cdf6f-cecd-4c27-9fa6-35f74ce0f57e"
-					(reference "U2")
+					(reference "U3")
 					(unit 1)
 				)
 			)
@@ -13768,8 +13902,9 @@
 		(in_bom yes)
 		(on_board yes)
 		(dnp no)
+		(fields_autoplaced yes)
 		(uuid "b634d234-a460-42e9-bcd1-f611eacb4c25")
-		(property "Reference" "#PWR03"
+		(property "Reference" "#PWR043"
 			(at 358.14 142.24 0)
 			(effects
 				(font
@@ -13819,7 +13954,7 @@
 		(instances
 			(project "Badge_Tropicon_2026"
 				(path "/2b0cdf6f-cecd-4c27-9fa6-35f74ce0f57e"
-					(reference "#PWR03")
+					(reference "#PWR043")
 					(unit 1)
 				)
 			)
@@ -13835,7 +13970,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "b8fd7a5e-5af7-4cca-9f3c-f4c87c1ce76c")
-		(property "Reference" "U3"
+		(property "Reference" "U4"
 			(at 330.2 215.9 0)
 			(effects
 				(font
@@ -13908,7 +14043,7 @@
 		(instances
 			(project ""
 				(path "/2b0cdf6f-cecd-4c27-9fa6-35f74ce0f57e"
-					(reference "U3")
+					(reference "U4")
 					(unit 1)
 				)
 			)
@@ -13922,8 +14057,9 @@
 		(in_bom yes)
 		(on_board yes)
 		(dnp no)
+		(fields_autoplaced yes)
 		(uuid "ba1f5a61-c9ab-440c-a2db-766725f7578b")
-		(property "Reference" "#PWR046"
+		(property "Reference" "#PWR025"
 			(at 210.82 146.05 0)
 			(effects
 				(font
@@ -13973,7 +14109,7 @@
 		(instances
 			(project "Badge_Tropicon_2026"
 				(path "/2b0cdf6f-cecd-4c27-9fa6-35f74ce0f57e"
-					(reference "#PWR046")
+					(reference "#PWR025")
 					(unit 1)
 				)
 			)
@@ -13989,7 +14125,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "ba3ccdfe-2f1b-4570-a875-d5d80f6e05ed")
-		(property "Reference" "AE1"
+		(property "Reference" "AE2"
 			(at 388.62 137.7949 0)
 			(effects
 				(font
@@ -14043,7 +14179,7 @@
 		(instances
 			(project "Badge_Tropicon_2026"
 				(path "/2b0cdf6f-cecd-4c27-9fa6-35f74ce0f57e"
-					(reference "AE1")
+					(reference "AE2")
 					(unit 1)
 				)
 			)
@@ -14057,8 +14193,9 @@
 		(in_bom yes)
 		(on_board yes)
 		(dnp no)
+		(fields_autoplaced yes)
 		(uuid "bcca3750-e4e8-433a-9468-15f8b698fa7b")
-		(property "Reference" "R3"
+		(property "Reference" "R7"
 			(at 313.436 218.44 0)
 			(effects
 				(font
@@ -14112,7 +14249,7 @@
 		(instances
 			(project ""
 				(path "/2b0cdf6f-cecd-4c27-9fa6-35f74ce0f57e"
-					(reference "R3")
+					(reference "R7")
 					(unit 1)
 				)
 			)
@@ -14126,8 +14263,9 @@
 		(in_bom yes)
 		(on_board yes)
 		(dnp no)
+		(fields_autoplaced yes)
 		(uuid "bea95fcf-9299-46bb-a4a1-3282d4d4105d")
-		(property "Reference" "R2"
+		(property "Reference" "R8"
 			(at 356.616 220.98 0)
 			(effects
 				(font
@@ -14181,7 +14319,7 @@
 		(instances
 			(project ""
 				(path "/2b0cdf6f-cecd-4c27-9fa6-35f74ce0f57e"
-					(reference "R2")
+					(reference "R8")
 					(unit 1)
 				)
 			)
@@ -14195,8 +14333,9 @@
 		(in_bom yes)
 		(on_board yes)
 		(dnp no)
+		(fields_autoplaced yes)
 		(uuid "c07a78e1-6418-482b-94d4-adae6b171095")
-		(property "Reference" "#PWR028"
+		(property "Reference" "#PWR018"
 			(at 166.37 41.91 0)
 			(effects
 				(font
@@ -14246,7 +14385,7 @@
 		(instances
 			(project "Badge_Tropicon_2026"
 				(path "/2b0cdf6f-cecd-4c27-9fa6-35f74ce0f57e"
-					(reference "#PWR028")
+					(reference "#PWR018")
 					(unit 1)
 				)
 			)
@@ -14262,7 +14401,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "c3418d8e-ec19-4d9f-8639-50fe6179cd8b")
-		(property "Reference" "#PWR05"
+		(property "Reference" "#PWR044"
 			(at 365.76 220.98 0)
 			(effects
 				(font
@@ -14312,7 +14451,7 @@
 		(instances
 			(project "Badge_Tropicon_2026"
 				(path "/2b0cdf6f-cecd-4c27-9fa6-35f74ce0f57e"
-					(reference "#PWR05")
+					(reference "#PWR044")
 					(unit 1)
 				)
 			)
@@ -14326,8 +14465,9 @@
 		(in_bom yes)
 		(on_board yes)
 		(dnp no)
+		(fields_autoplaced yes)
 		(uuid "c40774dd-1150-4052-9a1b-a8376483147e")
-		(property "Reference" "#PWR022"
+		(property "Reference" "#PWR011"
 			(at 102.87 77.216 0)
 			(effects
 				(font
@@ -14377,7 +14517,7 @@
 		(instances
 			(project "Badge_Tropicon_2026"
 				(path "/2b0cdf6f-cecd-4c27-9fa6-35f74ce0f57e"
-					(reference "#PWR022")
+					(reference "#PWR011")
 					(unit 1)
 				)
 			)
@@ -14391,8 +14531,9 @@
 		(in_bom yes)
 		(on_board yes)
 		(dnp no)
+		(fields_autoplaced yes)
 		(uuid "c71b75bc-4ead-4e22-805f-b5de2ee5748c")
-		(property "Reference" "R9"
+		(property "Reference" "R3"
 			(at 59.563 133.604 90)
 			(effects
 				(font
@@ -14417,7 +14558,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "https://datasheet.lcsc.com/lcsc/1810170519_PANASONIC-ERJ3RBD5101V_C191782.pdf"
+		(property "Datasheet" ""
 			(at 62.23 134.62 0)
 			(effects
 				(font
@@ -14471,7 +14612,7 @@
 		(instances
 			(project "Badge_Tropicon_2026"
 				(path "/2b0cdf6f-cecd-4c27-9fa6-35f74ce0f57e"
-					(reference "R9")
+					(reference "R3")
 					(unit 1)
 				)
 			)
@@ -14485,8 +14626,9 @@
 		(in_bom yes)
 		(on_board yes)
 		(dnp no)
+		(fields_autoplaced yes)
 		(uuid "c7f8a0d5-73fa-4250-b7c9-b05f0565cfce")
-		(property "Reference" "#PWR043"
+		(property "Reference" "#PWR04"
 			(at 43.18 173.482 0)
 			(effects
 				(font
@@ -14536,7 +14678,7 @@
 		(instances
 			(project "Badge_Tropicon_2026"
 				(path "/2b0cdf6f-cecd-4c27-9fa6-35f74ce0f57e"
-					(reference "#PWR043")
+					(reference "#PWR04")
 					(unit 1)
 				)
 			)
@@ -14550,8 +14692,9 @@
 		(in_bom yes)
 		(on_board yes)
 		(dnp no)
+		(fields_autoplaced yes)
 		(uuid "c8f07358-dc32-40b4-b995-1e76f101edcd")
-		(property "Reference" "U4"
+		(property "Reference" "U1"
 			(at 48.006 25.4 0)
 			(effects
 				(font
@@ -14726,7 +14869,7 @@
 		(instances
 			(project "Badge_Tropicon_2026"
 				(path "/2b0cdf6f-cecd-4c27-9fa6-35f74ce0f57e"
-					(reference "U4")
+					(reference "U1")
 					(unit 1)
 				)
 			)
@@ -14740,8 +14883,9 @@
 		(in_bom yes)
 		(on_board yes)
 		(dnp no)
+		(fields_autoplaced yes)
 		(uuid "cc340cd2-3593-4c9c-8931-6d377672c18b")
-		(property "Reference" "#PWR011"
+		(property "Reference" "#PWR036"
 			(at 317.5 77.47 0)
 			(effects
 				(font
@@ -14791,7 +14935,7 @@
 		(instances
 			(project "Badge_Tropicon_2026"
 				(path "/2b0cdf6f-cecd-4c27-9fa6-35f74ce0f57e"
-					(reference "#PWR011")
+					(reference "#PWR036")
 					(unit 1)
 				)
 			)
@@ -14807,7 +14951,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "cd3efeac-184d-45bc-9d54-d5d0215af646")
-		(property "Reference" "C12"
+		(property "Reference" "C13"
 			(at 309.88 71.1199 0)
 			(effects
 				(font
@@ -14825,7 +14969,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Capacitor_SMD:C_0603_1608Metric"
 			(at 307.0352 76.2 0)
 			(effects
 				(font
@@ -14834,7 +14978,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" ""
 			(at 306.07 72.39 0)
 			(effects
 				(font
@@ -14852,6 +14996,15 @@
 				(hide yes)
 			)
 		)
+		(property "LCSC#" "C85713"
+			(at 306.07 72.39 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "2796b5a7-949e-477b-a719-650b302f79a0")
 		)
@@ -14861,7 +15014,7 @@
 		(instances
 			(project "Badge_Tropicon_2026"
 				(path "/2b0cdf6f-cecd-4c27-9fa6-35f74ce0f57e"
-					(reference "C12")
+					(reference "C13")
 					(unit 1)
 				)
 			)
@@ -14875,8 +15028,9 @@
 		(in_bom yes)
 		(on_board yes)
 		(dnp no)
+		(fields_autoplaced yes)
 		(uuid "cea7d76c-feab-41e6-b270-1d08c5711b84")
-		(property "Reference" "#PWR013"
+		(property "Reference" "#PWR041"
 			(at 355.6 69.85 0)
 			(effects
 				(font
@@ -14926,7 +15080,7 @@
 		(instances
 			(project "Badge_Tropicon_2026"
 				(path "/2b0cdf6f-cecd-4c27-9fa6-35f74ce0f57e"
-					(reference "#PWR013")
+					(reference "#PWR041")
 					(unit 1)
 				)
 			)
@@ -14941,8 +15095,9 @@
 		(in_bom yes)
 		(on_board yes)
 		(dnp no)
+		(fields_autoplaced yes)
 		(uuid "d0a7c3f6-ff29-4098-9b1d-845fda7c7090")
-		(property "Reference" "C21"
+		(property "Reference" "C11"
 			(at 225.806 81.28 90)
 			(effects
 				(font
@@ -15012,7 +15167,7 @@
 		(instances
 			(project "Badge_Tropicon_2026"
 				(path "/2b0cdf6f-cecd-4c27-9fa6-35f74ce0f57e"
-					(reference "C21")
+					(reference "C11")
 					(unit 1)
 				)
 			)
@@ -15026,8 +15181,9 @@
 		(in_bom yes)
 		(on_board yes)
 		(dnp no)
+		(fields_autoplaced yes)
 		(uuid "d46e5fa7-a381-418e-9480-d3391b5a511e")
-		(property "Reference" "#PWR016"
+		(property "Reference" "#PWR046"
 			(at 377.19 55.88 0)
 			(effects
 				(font
@@ -15077,7 +15233,7 @@
 		(instances
 			(project "Badge_Tropicon_2026"
 				(path "/2b0cdf6f-cecd-4c27-9fa6-35f74ce0f57e"
-					(reference "#PWR016")
+					(reference "#PWR046")
 					(unit 1)
 				)
 			)
@@ -15091,8 +15247,9 @@
 		(in_bom yes)
 		(on_board yes)
 		(dnp no)
+		(fields_autoplaced yes)
 		(uuid "d50314c8-2092-4a9a-abb6-3e4cf018c953")
-		(property "Reference" "C1"
+		(property "Reference" "C15"
 			(at 326.136 120.65 0)
 			(effects
 				(font
@@ -15110,7 +15267,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Capacitor_SMD:C_0603_1608Metric"
 			(at 324.8152 125.73 0)
 			(effects
 				(font
@@ -15137,6 +15294,15 @@
 				(hide yes)
 			)
 		)
+		(property "LCSC#" "C14663"
+			(at 323.85 121.92 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "d4f764f8-8cf7-48d3-9860-313742eeb34f")
 		)
@@ -15146,7 +15312,7 @@
 		(instances
 			(project ""
 				(path "/2b0cdf6f-cecd-4c27-9fa6-35f74ce0f57e"
-					(reference "C1")
+					(reference "C15")
 					(unit 1)
 				)
 			)
@@ -15160,8 +15326,9 @@
 		(in_bom yes)
 		(on_board yes)
 		(dnp no)
+		(fields_autoplaced yes)
 		(uuid "d6414e16-e482-419a-a8fc-825ee8dee5e3")
-		(property "Reference" "#PWR029"
+		(property "Reference" "#PWR03"
 			(at 38.1 35.56 0)
 			(effects
 				(font
@@ -15211,7 +15378,7 @@
 		(instances
 			(project "Badge_Tropicon_2026"
 				(path "/2b0cdf6f-cecd-4c27-9fa6-35f74ce0f57e"
-					(reference "#PWR029")
+					(reference "#PWR03")
 					(unit 1)
 				)
 			)
@@ -15225,6 +15392,7 @@
 		(in_bom yes)
 		(on_board yes)
 		(dnp no)
+		(fields_autoplaced yes)
 		(uuid "d97317ce-3e0c-46cb-9c46-d7244805d166")
 		(property "Reference" "D1"
 			(at 158.115 142.494 0)
@@ -15319,8 +15487,9 @@
 		(in_bom yes)
 		(on_board yes)
 		(dnp no)
+		(fields_autoplaced yes)
 		(uuid "d9d2b17b-5015-4e66-871d-72d02719b6af")
-		(property "Reference" "#PWR015"
+		(property "Reference" "#PWR040"
 			(at 351.79 69.85 0)
 			(effects
 				(font
@@ -15370,7 +15539,7 @@
 		(instances
 			(project "Badge_Tropicon_2026"
 				(path "/2b0cdf6f-cecd-4c27-9fa6-35f74ce0f57e"
-					(reference "#PWR015")
+					(reference "#PWR040")
 					(unit 1)
 				)
 			)
@@ -15385,8 +15554,9 @@
 		(in_bom yes)
 		(on_board yes)
 		(dnp no)
+		(fields_autoplaced yes)
 		(uuid "dc549af4-a9cd-43f0-8387-e782450455aa")
-		(property "Reference" "SW4"
+		(property "Reference" "SW7"
 			(at 228.6 71.882 0)
 			(effects
 				(font
@@ -15466,7 +15636,7 @@
 		(instances
 			(project "Badge_Tropicon_2026"
 				(path "/2b0cdf6f-cecd-4c27-9fa6-35f74ce0f57e"
-					(reference "SW4")
+					(reference "SW7")
 					(unit 1)
 				)
 			)
@@ -15482,7 +15652,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "e2bcd9fa-f4f8-4244-83aa-3a540c775732")
-		(property "Reference" "R4"
+		(property "Reference" "R9"
 			(at 368.3 220.9799 0)
 			(effects
 				(font
@@ -15536,7 +15706,7 @@
 		(instances
 			(project "Badge_Tropicon_2026"
 				(path "/2b0cdf6f-cecd-4c27-9fa6-35f74ce0f57e"
-					(reference "R4")
+					(reference "R9")
 					(unit 1)
 				)
 			)
@@ -15551,8 +15721,9 @@
 		(in_bom yes)
 		(on_board yes)
 		(dnp no)
+		(fields_autoplaced yes)
 		(uuid "e84e847c-0be7-48ce-9889-5130290352f6")
-		(property "Reference" "#PWR042"
+		(property "Reference" "#PWR029"
 			(at 234.95 87.63 0)
 			(effects
 				(font
@@ -15602,7 +15773,7 @@
 		(instances
 			(project "Badge_Tropicon_2026"
 				(path "/2b0cdf6f-cecd-4c27-9fa6-35f74ce0f57e"
-					(reference "#PWR042")
+					(reference "#PWR029")
 					(unit 1)
 				)
 			)
@@ -15617,8 +15788,9 @@
 		(in_bom yes)
 		(on_board yes)
 		(dnp no)
+		(fields_autoplaced yes)
 		(uuid "ecbf7302-db67-42f5-a4ec-8b47dd676b44")
-		(property "Reference" "R7"
+		(property "Reference" "R5"
 			(at 167.8686 44.3484 0)
 			(effects
 				(font
@@ -15645,7 +15817,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "https://datasheet.lcsc.com/lcsc/1811151133_Walsin-Tech-Corp-WR06X104JTL_C163843.pdf"
+		(property "Datasheet" ""
 			(at 166.37 43.18 0)
 			(effects
 				(font
@@ -15699,7 +15871,7 @@
 		(instances
 			(project "Badge_Tropicon_2026"
 				(path "/2b0cdf6f-cecd-4c27-9fa6-35f74ce0f57e"
-					(reference "R7")
+					(reference "R5")
 					(unit 1)
 				)
 			)
@@ -15714,8 +15886,9 @@
 		(in_bom yes)
 		(on_board yes)
 		(dnp no)
+		(fields_autoplaced yes)
 		(uuid "f09193c3-aef4-412e-932d-adfe08333db2")
-		(property "Reference" "C20"
+		(property "Reference" "C10"
 			(at 224.536 64.77 90)
 			(effects
 				(font
@@ -15785,7 +15958,7 @@
 		(instances
 			(project "Badge_Tropicon_2026"
 				(path "/2b0cdf6f-cecd-4c27-9fa6-35f74ce0f57e"
-					(reference "C20")
+					(reference "C10")
 					(unit 1)
 				)
 			)
@@ -15799,6 +15972,7 @@
 		(in_bom yes)
 		(on_board yes)
 		(dnp no)
+		(fields_autoplaced yes)
 		(uuid "f25b5678-82e8-4fa3-a169-ad5c28a33b6a")
 		(property "Reference" "J1"
 			(at 127.508 143.3068 0)
@@ -15895,6 +16069,7 @@
 		(in_bom yes)
 		(on_board yes)
 		(dnp no)
+		(fields_autoplaced yes)
 		(uuid "f80ef871-9766-4cc4-a202-ff17d4cfd9f9")
 		(property "Reference" "Q1"
 			(at 169.164 132.08 0)
@@ -15994,8 +16169,9 @@
 		(in_bom yes)
 		(on_board yes)
 		(dnp no)
+		(fields_autoplaced yes)
 		(uuid "f93a3c95-6911-4cc0-a3d9-711fc88069fc")
-		(property "Reference" "#PWR023"
+		(property "Reference" "#PWR013"
 			(at 111.76 77.216 0)
 			(effects
 				(font
@@ -16045,7 +16221,7 @@
 		(instances
 			(project "Badge_Tropicon_2026"
 				(path "/2b0cdf6f-cecd-4c27-9fa6-35f74ce0f57e"
-					(reference "#PWR023")
+					(reference "#PWR013")
 					(unit 1)
 				)
 			)
@@ -16060,8 +16236,9 @@
 		(in_bom yes)
 		(on_board yes)
 		(dnp no)
+		(fields_autoplaced yes)
 		(uuid "f9cc3b00-3f3a-429d-91d1-542cbe2a6f57")
-		(property "Reference" "#PWR037"
+		(property "Reference" "#PWR020"
 			(at 181.229 73.66 0)
 			(effects
 				(font
@@ -16111,7 +16288,7 @@
 		(instances
 			(project "Badge_Tropicon_2026"
 				(path "/2b0cdf6f-cecd-4c27-9fa6-35f74ce0f57e"
-					(reference "#PWR037")
+					(reference "#PWR020")
 					(unit 1)
 				)
 			)
@@ -16126,8 +16303,9 @@
 		(in_bom yes)
 		(on_board yes)
 		(dnp no)
+		(fields_autoplaced yes)
 		(uuid "fab41652-bf1f-459b-afc3-c03bb179a43f")
-		(property "Reference" "C19"
+		(property "Reference" "C9"
 			(at 224.536 48.26 90)
 			(effects
 				(font
@@ -16197,7 +16375,7 @@
 		(instances
 			(project "Badge_Tropicon_2026"
 				(path "/2b0cdf6f-cecd-4c27-9fa6-35f74ce0f57e"
-					(reference "C19")
+					(reference "C9")
 					(unit 1)
 				)
 			)
@@ -16212,8 +16390,9 @@
 		(in_bom yes)
 		(on_board yes)
 		(dnp no)
+		(fields_autoplaced yes)
 		(uuid "fe40d2c6-260e-417b-94b2-cfb4e4816b9f")
-		(property "Reference" "SW7"
+		(property "Reference" "SW6"
 			(at 227.33 54.864 0)
 			(effects
 				(font
@@ -16292,7 +16471,7 @@
 		(instances
 			(project "Badge_Tropicon_2026"
 				(path "/2b0cdf6f-cecd-4c27-9fa6-35f74ce0f57e"
-					(reference "SW7")
+					(reference "SW6")
 					(unit 1)
 				)
 			)
@@ -16306,8 +16485,9 @@
 		(in_bom yes)
 		(on_board yes)
 		(dnp no)
+		(fields_autoplaced yes)
 		(uuid "ff8058a0-f6a3-4bb0-a8a3-1020277fa528")
-		(property "Reference" "C8"
+		(property "Reference" "C14"
 			(at 314.96 228.6 0)
 			(effects
 				(font
@@ -16325,7 +16505,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Capacitor_SMD:C_0603_1608Metric"
 			(at 313.3852 233.68 0)
 			(effects
 				(font
@@ -16334,7 +16514,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" ""
 			(at 312.42 229.87 0)
 			(effects
 				(font
@@ -16352,6 +16532,15 @@
 				(hide yes)
 			)
 		)
+		(property "LCSC#" "C85713"
+			(at 312.42 229.87 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "e6c25065-a5ac-4a5a-9bad-bbc402b945dc")
 		)
@@ -16361,7 +16550,7 @@
 		(instances
 			(project ""
 				(path "/2b0cdf6f-cecd-4c27-9fa6-35f74ce0f57e"
-					(reference "C8")
+					(reference "C14")
 					(unit 1)
 				)
 			)
