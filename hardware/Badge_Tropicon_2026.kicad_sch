@@ -15454,7 +15454,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Package_TO_SOT_SMD:SOT-223-3_TabPin2"
+		(property "Footprint" "Package_TO_SOT_SMD:SOT-223"
 			(at 189.23 153.67 0)
 			(effects
 				(font
@@ -18345,7 +18345,7 @@
 				(hide yes)
 			)
 		)
-		(property "LCSC#" "C2856816 o C262583"
+		(property "LCSC#" "C262583"
 			(at 107.95 246.38 0)
 			(effects
 				(font
