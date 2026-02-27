@@ -9728,7 +9728,7 @@
 		(uuid "8f1d1c4a-aede-44ac-ab7c-f6e24afdedfa")
 	)
 	(label "IO1"
-		(at 35.56 45.72 180)
+		(at 35.56 48.26 180)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -9948,7 +9948,7 @@
 		(uuid "e16e8306-f54e-4200-8675-30be2a1550f9")
 	)
 	(label "IO0"
-		(at 35.56 48.26 180)
+		(at 35.56 45.72 180)
 		(effects
 			(font
 				(size 1.27 1.27)
