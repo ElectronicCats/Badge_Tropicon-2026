@@ -16732,7 +16732,7 @@
 				(justify mirror)
 			)
 		)
-		(property "LCSC#" ""
+		(property "LCSC#" "C2906974"
 			(at 0 0 270)
 			(unlocked yes)
 			(layer "B.Fab")
