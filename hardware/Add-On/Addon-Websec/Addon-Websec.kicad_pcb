@@ -7,6 +7,13 @@
 		(legacy_teardrops no)
 	)
 	(paper "A4")
+	(title_block
+		(title "Addon-Websec")
+		(date "2026-03-09")
+		(rev "v1.0")
+		(company "Electronic Cats")
+		(comment 1 "Lizeth Gallegos Martínez")
+	)
 	(layers
 		(0 "F.Cu" signal)
 		(2 "B.Cu" signal)
@@ -1667,8 +1674,8 @@
 			(uuid "88b1c9c7-5c1b-4931-b7f4-717ae22f84a2")
 		)
 		(fp_line
-			(start -2.400002 3.299999)
-			(end -2.400002 3.299999)
+			(start -2.400003 3.299999)
+			(end -2.400003 3.299999)
 			(stroke
 				(width 0.2)
 				(type solid)
@@ -1677,8 +1684,8 @@
 			(uuid "bf72312d-239c-44d8-a18f-a2ebd4d0602a")
 		)
 		(fp_line
-			(start -1.250001 1.350001)
-			(end -1.250001 1.350001)
+			(start -1.250001 1.350002)
+			(end -1.250001 1.350002)
 			(stroke
 				(width 0.1)
 				(type solid)
@@ -1687,7 +1694,7 @@
 			(uuid "195cfabf-9045-45f5-b8d5-020f65b32179")
 		)
 		(fp_line
-			(start -1.250001 1.350001)
+			(start -1.250001 1.350002)
 			(end -0.250001 1.35)
 			(stroke
 				(width 0.1)
@@ -1698,7 +1705,7 @@
 		)
 		(fp_line
 			(start -0.250001 1.35)
-			(end -1.250001 1.350001)
+			(end -1.250001 1.350002)
 			(stroke
 				(width 0.1)
 				(type solid)
@@ -1779,7 +1786,7 @@
 		(fp_arc
 			(start -2.5 3.300001)
 			(mid -2.449999 3.249999)
-			(end -2.400002 3.299999)
+			(end -2.400003 3.299999)
 			(stroke
 				(width 0.2)
 				(type solid)
@@ -1790,7 +1797,7 @@
 		(fp_arc
 			(start -2.5 3.300001)
 			(mid -2.449999 3.249999)
-			(end -2.400002 3.299999)
+			(end -2.400003 3.299999)
 			(stroke
 				(width 0.2)
 				(type solid)
@@ -1799,7 +1806,7 @@
 			(uuid "5addb892-75f7-4d27-b6be-8d8ae37045ba")
 		)
 		(fp_arc
-			(start -2.400002 3.299999)
+			(start -2.400003 3.299999)
 			(mid -2.449998 3.349998)
 			(end -2.5 3.300001)
 			(stroke
@@ -2062,7 +2069,6 @@
 			)
 			(fill yes)
 			(layer "B.SilkS")
-			(net 170780248)
 			(uuid "9749fd57-d7de-4431-a772-7e6b2992409d")
 		)
 		(fp_poly
@@ -2103,7 +2109,6 @@
 			)
 			(fill yes)
 			(layer "B.SilkS")
-			(net 170780248)
 			(uuid "4d17db9f-684c-4444-9238-d544d1d37543")
 		)
 		(embedded_fonts no)
@@ -2203,7 +2208,6 @@
 			)
 			(fill yes)
 			(layer "B.SilkS")
-			(net 170780248)
 			(uuid "1bd0939f-13bc-45cc-83b2-0649f82e5b8f")
 		)
 		(embedded_fonts no)
@@ -2281,7 +2285,6 @@
 			)
 			(fill yes)
 			(layer "B.SilkS")
-			(net 170780248)
 			(uuid "e5404c29-ae93-479d-a250-dda24177c765")
 		)
 		(fp_poly
@@ -2313,7 +2316,6 @@
 			)
 			(fill yes)
 			(layer "B.SilkS")
-			(net 170780248)
 			(uuid "cb5c39aa-8cd5-45eb-ad9f-262559c51faf")
 		)
 		(embedded_fonts no)
@@ -2391,7 +2393,6 @@
 			)
 			(fill yes)
 			(layer "B.SilkS")
-			(net 170780248)
 			(uuid "16422bb2-3763-49f7-a6d3-051fa9b212b9")
 		)
 		(fp_poly
@@ -2424,7 +2425,6 @@
 			)
 			(fill yes)
 			(layer "B.SilkS")
-			(net 170780248)
 			(uuid "9c718339-084c-4156-b1bd-8c9c7f1ab9e2")
 		)
 		(embedded_fonts no)
@@ -2501,7 +2501,6 @@
 			)
 			(fill yes)
 			(layer "B.SilkS")
-			(net 170780248)
 			(uuid "34374141-d6f3-46e6-8858-2a74ab8ff92e")
 		)
 		(fp_poly
@@ -2518,7 +2517,6 @@
 			)
 			(fill yes)
 			(layer "B.SilkS")
-			(net 170780248)
 			(uuid "3ea43837-18b1-494f-a3e7-5e61dacf6406")
 		)
 		(fp_poly
@@ -2555,7 +2553,6 @@
 			)
 			(fill yes)
 			(layer "B.SilkS")
-			(net 170780248)
 			(uuid "437d20ef-3fa1-4083-92d8-c3d45506fe23")
 		)
 		(embedded_fonts no)
@@ -2635,7 +2632,6 @@
 			)
 			(fill yes)
 			(layer "B.SilkS")
-			(net 170780248)
 			(uuid "4213d18c-1f2f-4892-a138-d5393f922b1c")
 		)
 		(fp_poly
@@ -2659,7 +2655,6 @@
 			)
 			(fill yes)
 			(layer "B.SilkS")
-			(net 170780248)
 			(uuid "dfc89359-129a-4d6c-b73c-3af24dbaaee3")
 		)
 		(fp_poly
@@ -2693,7 +2688,6 @@
 			)
 			(fill yes)
 			(layer "B.SilkS")
-			(net 170780248)
 			(uuid "4f572810-d823-450f-b6ac-f20a86ad780d")
 		)
 		(fp_poly
@@ -2727,7 +2721,6 @@
 			)
 			(fill yes)
 			(layer "B.SilkS")
-			(net 170780248)
 			(uuid "511fd1c7-cb1c-4ef3-a1c0-cc5701393338")
 		)
 		(fp_poly
@@ -2761,7 +2754,6 @@
 			)
 			(fill yes)
 			(layer "B.SilkS")
-			(net 170780248)
 			(uuid "d0bd88cc-628d-4621-8cf9-2d3650ca5a6e")
 		)
 		(fp_poly
@@ -2799,7 +2791,6 @@
 			)
 			(fill yes)
 			(layer "B.SilkS")
-			(net 170780248)
 			(uuid "75cd454d-8554-4274-97d2-2135dcd97e19")
 		)
 		(fp_poly
@@ -2836,7 +2827,6 @@
 			)
 			(fill yes)
 			(layer "B.SilkS")
-			(net 170780248)
 			(uuid "af8ee051-88fe-4c75-a3d8-6a07d4e1a364")
 		)
 		(fp_poly
@@ -2875,7 +2865,6 @@
 			)
 			(fill yes)
 			(layer "B.SilkS")
-			(net 170780248)
 			(uuid "99fd6fb3-2c55-48e2-b605-a2282644c0b2")
 		)
 		(fp_poly
@@ -2915,7 +2904,6 @@
 			)
 			(fill yes)
 			(layer "B.SilkS")
-			(net 170780248)
 			(uuid "da651f5d-a1f7-4e06-b001-a07d9b42af14")
 		)
 		(fp_poly
@@ -2956,7 +2944,6 @@
 			)
 			(fill yes)
 			(layer "B.SilkS")
-			(net 170780248)
 			(uuid "8b5501aa-8e06-48ad-bb4f-66ca2d7f67d5")
 		)
 		(fp_poly
@@ -3001,7 +2988,6 @@
 			)
 			(fill yes)
 			(layer "B.SilkS")
-			(net 170780248)
 			(uuid "aa27db9d-a518-45ae-8e47-26644ae58929")
 		)
 		(fp_poly
@@ -3044,7 +3030,6 @@
 			)
 			(fill yes)
 			(layer "B.SilkS")
-			(net 170780248)
 			(uuid "235be754-4e1e-4e44-bf40-4ad66c951cb5")
 		)
 		(fp_poly
@@ -3098,7 +3083,6 @@
 			)
 			(fill yes)
 			(layer "B.SilkS")
-			(net 170780248)
 			(uuid "d7800b28-e2ee-49a0-90a9-c4cf0e8543be")
 		)
 		(fp_poly
@@ -3149,7 +3133,6 @@
 			)
 			(fill yes)
 			(layer "B.SilkS")
-			(net 170780248)
 			(uuid "61dd6734-2a2b-4ac4-ab5a-cdb87260306e")
 		)
 		(fp_poly
@@ -3345,7 +3328,6 @@
 			)
 			(fill yes)
 			(layer "B.SilkS")
-			(net 170780248)
 			(uuid "89f1b588-9552-4ca0-a3c8-8f0bade2dec1")
 		)
 		(embedded_fonts no)
@@ -3464,7 +3446,6 @@
 			)
 			(fill yes)
 			(layer "B.SilkS")
-			(net 170780248)
 			(uuid "4ddcc400-febd-4b61-a9a7-9a43cc08dcb1")
 		)
 		(embedded_fonts no)
