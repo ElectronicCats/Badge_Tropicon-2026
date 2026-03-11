@@ -3869,12 +3869,12 @@
 	(footprint "Aesthetics:electronic_cats_logo_8x6"
 		(layer "B.Cu")
 		(uuid "2f8ede28-5678-45e6-a71e-075b52416488")
-		(at 90.46 69.97 180)
+		(at 90.45 71.63 180)
 		(property "Reference" "G***"
 			(at 0 0 0)
 			(layer "B.SilkS")
 			(hide yes)
-			(uuid "c1d6a546-764f-4dd0-8511-018fdc6a085b")
+			(uuid "faa4e3bb-4c99-48ec-af05-acd4a6512e9a")
 			(effects
 				(font
 					(size 1.524 1.524)
@@ -3887,7 +3887,7 @@
 			(at 0.75 0 0)
 			(layer "B.SilkS")
 			(hide yes)
-			(uuid "7671c513-a934-41c7-8072-457150f635ea")
+			(uuid "1b4aa222-3e73-411e-bd74-c92723589787")
 			(effects
 				(font
 					(size 1.524 1.524)
@@ -3901,7 +3901,7 @@
 			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "ac363d97-dfdc-4737-b618-7d8f520ec302")
+			(uuid "8b591e98-e52b-4bcb-8aea-22e23376539c")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3914,7 +3914,7 @@
 			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "04ef5df0-f570-49b1-af66-74970789d9e0")
+			(uuid "8893f9a1-6a07-4242-a854-62e4ab76a6f6")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9190,6 +9190,19 @@
 		(layer "Edge.Cuts")
 		(uuid "f7ff3ce0-91f7-4673-a0d9-73a6a001c332")
 	)
+	(gr_text "SPONSORED BY"
+		(at 90.46 66.95 0)
+		(layer "B.SilkS")
+		(uuid "6b1884d3-32b1-4176-8f61-dde131c2e6df")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.2)
+				(bold yes)
+			)
+			(justify mirror)
+		)
+	)
 	(segment
 		(start 94.378732 80.351268)
 		(end 94.38 80.35)
@@ -10059,6 +10072,14 @@
 		(uuid "19c8e7f6-fcd6-4bdc-b560-c2a380b020ec")
 	)
 	(segment
+		(start 95.2 75.89)
+		(end 94.74 75.43)
+		(width 0.4)
+		(layer "B.Cu")
+		(net 3)
+		(uuid "67b31466-bed5-433a-a42e-e7ababa0b408")
+	)
+	(segment
 		(start 91.09 57.545)
 		(end 91.09 58.78)
 		(width 0.3)
@@ -10081,6 +10102,14 @@
 		(layer "B.Cu")
 		(net 3)
 		(uuid "ba1f6d5c-ae56-49f4-bc05-1b8efa5ddd50")
+	)
+	(segment
+		(start 95.2 77.905)
+		(end 95.2 75.89)
+		(width 0.4)
+		(layer "B.Cu")
+		(net 3)
+		(uuid "df882afc-1427-48de-a3fb-6e88635d5502")
 	)
 	(segment
 		(start 91.09 56.61)
