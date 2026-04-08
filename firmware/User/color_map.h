@@ -10,7 +10,7 @@ typedef struct {
 } rgb_t;
 
 // Map temperature (in raw TMP102 units, 0.0625C per LSB) to RGB color.
-// Beer theme: <8C=blue, 8-15C=green, >15C=red, with smooth transitions.
+// Beer theme: <5C=blue, 5-8C=blue->green, 8-12C=green, 12-15C=green->red, >15C=red.
 rgb_t color_from_temp(int16_t temp_raw);
 
 #endif
