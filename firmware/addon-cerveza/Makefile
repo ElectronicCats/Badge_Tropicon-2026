@@ -1,4 +1,4 @@
-all : flash
+all : build
 
 TARGET:=User/main
 
@@ -8,5 +8,7 @@ ADDITIONAL_C_FILES:=User/tmp102.c User/breathing.c User/color_map.c
 
 include ch32v003fun/ch32fun/ch32fun.mk
 
-flash : cv_flash
+build : $(TARGET).bin
+flash : $(TARGET).bin
+	wlink flash $(TARGET).bin
 clean : cv_clean

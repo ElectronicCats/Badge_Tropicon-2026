@@ -1,0 +1,6 @@
+User/*.elf
+User/*.bin
+User/*.hex
+User/*.lst
+User/*.map
+ch32v003fun/ch32fun/generated__.ld
