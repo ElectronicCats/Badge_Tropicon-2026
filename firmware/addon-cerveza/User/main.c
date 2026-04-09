@@ -37,7 +37,7 @@ int main(void)
 
     int16_t temp_raw = 0;
     uint16_t temp_counter = 0;       // counts 30ms ticks toward 2s
-    #define TEMP_READ_INTERVAL 66    // 66 * 30ms ~ 2 seconds
+    #define TEMP_READ_INTERVAL 33    // 33 * 30ms ~ 1 second
 
     // Initial temperature read
     temp_raw = tmp102_read_raw();
