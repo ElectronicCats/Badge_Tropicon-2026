@@ -1,9 +1,12 @@
 // WS2812B DMA SPI driver config -- must be before include
 #define WS2812DMA_IMPLEMENTATION
-#define WSGRB                      // WS2812B uses GRB color order
+#define WSRBG                      // Fix color order: callback is 0xRRGGBB, LED needs GRB
 #define NR_LEDS 1
 
 #include "ch32fun.h"
+#ifdef DEBUG_PRINT
+#include <stdio.h>
+#endif
 #include "ws2812b_dma_spi_led_driver.h"
 #include "tmp102.h"
 #include "breathing.h"
@@ -47,6 +50,12 @@ int main(void)
         {
             temp_counter = 0;
             temp_raw = tmp102_read_raw();
+#ifdef DEBUG_PRINT
+            // Temperature in 0.0625°C units; print as fixed point
+            int16_t whole = temp_raw >> 4;
+            int16_t frac = (temp_raw & 0xF) * 625;
+            printf("T=%d.%04d raw=%d R=%d G=%d B=%d\n", whole, frac, temp_raw, led_r, led_g, led_b);
+#endif
         }
 
         // Map temperature to base color
