@@ -24,5 +24,3 @@ Badge Oficial de Trpicon 2026
 ## Credits
 
 Designed and developed by the **Electronic Cats** firmware and hardware team.
-
-[![Electronic Cats](https://electroniccats.com/wp-content/uploads/2020/07/Badge_GHS.png)](https://electroniccats.com)
